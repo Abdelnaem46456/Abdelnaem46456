@@ -42,17 +42,14 @@
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
-
 <div align="left">
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
   <img width="12" />
-  
+
   <!-- Kotlin -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin logo" />
   <img width="12" />
-
 
   <!-- Android Studio -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio logo" />
@@ -62,9 +59,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma logo" />
   <img width="12" />
 
-  <!-- XML (no specific logo, using file-type icon instead) -->
+  <!-- XML (placeholder) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="XML logo placeholder" />
-   <!-- Firebase -->
+  <img width="12" />
+
+  <!-- Firebase -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="Firebase logo" />
   <img width="12" />
 
@@ -77,8 +76,8 @@
   <img width="12" />
 
   <!-- Gradle -->
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gradle.svg" height="40" alt="Gradle logo" />
-
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gradle.svg" height="40" alt="Gradle logo" />
+  <img width="12" />
 
   <!-- SQLite -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite logo" />
@@ -87,7 +86,19 @@
   <!-- Postman -->
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="Postman logo" />
   <img width="12" />
-</div>
+
+
+
+  <!-- Microsoft Azure -->
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" height="40" alt="Azure logo" />
+  <img width="12" />
+
+  <!-- Trello -->
+  <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" height="40" alt="Trello logo" />
+  <img width="12" />
+
+  <!-- Jira -->
+  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" height="40" alt="Jira logo" />
 </div>
 
 
